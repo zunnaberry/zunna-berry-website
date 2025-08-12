@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Sitemap location (create this file if you want)
+Sitemap: https://yourdomain.com/sitemap.xml
+
+# Disallow any admin or private areas (if you add them later)
+# Disallow: /admin/
+# Disallow: /private/
